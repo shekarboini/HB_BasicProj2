@@ -2,6 +2,8 @@ package com.hexa.domain;
 
 public class EmpDetails {
 	
+	//Properties
+	
 	private int id;
 	private String name;
 	private double salary;
